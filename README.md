@@ -9,8 +9,11 @@
 ⚡ Trainer & Leader at BinaryTeam — empowering the next generation of developers
 
 🤖 Telegram Bot Developer — building smart bots with Python
+
 🏆 Robotics Projects — hands-on projects in embedded systems & automation
+
 🐧 Linux User — comfortable working in Linux environments
+
 🎯 I love **clean code**, **creative UI**, and **continuous learning**.  
 
 💬 I believe **great design + solid code = magic** ✨  
@@ -31,12 +34,11 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=esphome&logoColor=white)
 ---
 
 ### 🌱 About Me  
@@ -48,10 +50,10 @@
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/nadia-alzaeem-610186309?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nadiaalzeem@gmail.com)
-[![Instagram](https://www.instagram.com/binary_team_10?igsh=cjRlcXY2NmxheTVp)
-[![Telegram](https://t.me/Binary_team_10)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadia-alzaeem-610186309)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nadia-al-zaeem)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Binary_team_10)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/binary_team_10?igsh=cjRlcXY2NmxheTVp)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nadiaalzeem@gmail.com)
 
 

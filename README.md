@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋 I'm Nadia al zaeem</h1>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnMDN3cG8yeGIyZ28zbHl6bThvb3l0bng4bHI3NXM1a244Y2czcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rvjRyn3dLSj8dqhKuv/giphy.gif" width="400">
+</p>
+
 # 👋 Hi, I'm Nadia Alzaeem  
 
 💻 **Computer Engineering student** & **Front-End Developer** passionate about building beautiful and responsive web apps.  

@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋 I'm Nadia al zaeem</h1>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnMDN3cG8yeGIyZ28zbHl6bThvb3l0bng4bHI3NXM1a244Y2czcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rvjRyn3dLSj8dqhKuv/giphy.gif" width="400">
-</p>
-
 # 👋 Hi, I'm Nadia Alzaeem  
 
 💻 **Computer Engineering student** & **Front-End Developer** passionate about building beautiful and responsive web apps.  
@@ -39,10 +33,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=esphome&logoColor=white)
 ---
